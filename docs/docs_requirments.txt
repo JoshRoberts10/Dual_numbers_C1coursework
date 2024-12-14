@@ -1,0 +1,10 @@
+# To build html docs please ensure below are installed 
+
+Sphinx==8.1.3
+sphinx-rtd-theme==3.0.2
+nbsphinx
+nbconvert
+jupyter
+Jinja2==3.1.4
+Pygments==2.18.0
+docutils==0.21.2
